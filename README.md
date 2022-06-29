@@ -24,8 +24,9 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
+#### Active State Image
 ![active state image](./images/active.png)
+#### Normal State Image
 ![normal state image](./images/desktop.png)
 
 
