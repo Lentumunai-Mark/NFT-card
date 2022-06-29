@@ -26,7 +26,7 @@ Users should be able to:
 ### Screenshot
 
 ![active state image](./images/active.png)
-![normal state image](./images/active.png)
+![normal state image](./images/desktop.png)
 
 
 
