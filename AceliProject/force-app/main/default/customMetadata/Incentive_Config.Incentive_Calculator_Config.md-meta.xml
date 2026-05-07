@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Incentive Calculator Config</label>
+    <protected>false</protected>
+    <values>
+        <field>Attribute_Map__c</field>
+        <value xsi:type="xsd:string">{
+    &quot;baseFactor&quot;: 0.04,
+    &quot;factorIncrement&quot;: 0.01,
+    &quot;oILoanAmountThreshold&quot;: 15000,
+    &quot;oIRevenueThreshold&quot;: 1000000,
+    &quot;baseOIConstant&quot;: 0.0015,
+    &quot;oILoanBasImpactConstant&quot;: 0.005,
+    &quot;eSGYouthOwnedBonus&quot;: 1000,
+    &quot;eSGClimateSmartBonus&quot;: 2000,
+    &quot;eSGGenderInclusiveBonus&quot;: 1500,
+    &quot;countryAdjustment&quot;: 1.1,
+    &quot;balanceOIConstant&quot;: 0.06,
+    &quot;balanceFLCConstant&quot;: 0.055
+}</value>
+    </values>
+</CustomMetadata>
